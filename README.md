@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a0a,100:1a4a2a&height=200&section=header&text=Laiba%20Sarwar&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Full-Stack%20Developer&descSize=16&descAlignY=60&descColor=ccddcc)
+# Laiba Sarwar
+### Computer Science Student · AI & Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=4CAF50&center=true&vCenter=true&width=520&lines=Building+AI+%26+Software+Solutions;Exploring+Machine+Learning+%26+Full-Stack+Dev;GDG+Operational+Lead;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
 
