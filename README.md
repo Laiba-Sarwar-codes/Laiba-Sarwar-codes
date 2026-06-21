@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a0a,100:22ff66&height=180&section=header&text=Laiba%20Sarwar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Full-Stack%20Developer&descSize=15&descAlignY=58&descColor=aaffcc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a0a,100:1a4a2a&height=200&section=header&text=Laiba%20Sarwar&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Full-Stack%20Developer&descSize=16&descAlignY=60&descColor=ccddcc)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=22FF66&center=true&vCenter=true&width=500&lines=Building+AI+%26+Software+Solutions;Exploring+Machine+Learning+%26+Full-Stack+Dev;GDG+Operational+Lead;Open+to+Internships+%26+Collaboration)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=4CAF50&center=true&vCenter=true&width=520&lines=Building+AI+%26+Software+Solutions;Exploring+Machine+Learning+%26+Full-Stack+Dev;GDG+Operational+Lead;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
 
 </div>
 
@@ -10,10 +10,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Laiba--Sarwar--codes-22ff66?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Laiba-Sarwar-codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-laibasarwarhere-22ff66?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/laibasarwarhere)
-[![Portfolio](https://img.shields.io/badge/Portfolio-marvelous--pixie-22ff66?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117)](https://marvelous-pixie-9b85a3.netlify.app)
-[![Email](https://img.shields.io/badge/Email-laibasarwar498-22ff66?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:laibasarwar498@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Laiba--Sarwar--codes-white?style=flat-square&logo=github&logoColor=black&labelColor=e8e8e8&color=4CAF50)](https://github.com/Laiba-Sarwar-codes)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-laibasarwarhere-white?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5&color=4CAF50)](https://www.linkedin.com/in/laibasarwarhere)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-white?style=flat-square&logo=netlify&logoColor=white&labelColor=00C7B7&color=4CAF50)](https://marvelous-pixie-9b85a3.netlify.app)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact_Me-white?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&color=4CAF50)](mailto:laibasarwar498@gmail.com)
 
 </div>
 
@@ -36,7 +36,7 @@
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,js,java,cpp,html,css,sql&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,java,cpp,html,css&theme=dark)](https://skillicons.dev)
 
 **Frontend & Backend**
 
@@ -62,7 +62,7 @@ Full-stack MERN e-commerce store with product listings, cart management, and use
 
 `MongoDB` `Express.js` `React` `Node.js`
 
-[![Repo](https://img.shields.io/badge/View_Repo-22ff66?style=flat-square&logo=github&logoColor=black)](https://github.com/Laiba-Sarwar-codes/Ecommerce_store-/tree/main)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Laiba-Sarwar-codes/Ecommerce_store-/tree/main)
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@ AI web app classifying English & Urdu job descriptions using mBERT + ANN with sk
 
 `Python` `FastAPI` `mBERT` `PyTorch` `React`
 
-[![Repo](https://img.shields.io/badge/View_Repo-22ff66?style=flat-square&logo=github&logoColor=black)](https://github.com/Laiba-Sarwar-codes/ML-SEMESTER_PROJECT)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Laiba-Sarwar-codes/ML-SEMESTER_PROJECT)
 
 </td>
 </tr>
@@ -86,8 +86,6 @@ Diagnostic prototype using Google Gemini API for intelligent Parkinson's disease
 
 `Python` `Google Gemini API`
 
-[![Repo](https://img.shields.io/badge/View_Repo-22ff66?style=flat-square&logo=github&logoColor=black)](https://github.com/Laiba-Sarwar-codes)
-
 </td>
 <td width="50%" valign="top">
 
@@ -96,8 +94,6 @@ Diagnostic prototype using Google Gemini API for intelligent Parkinson's disease
 Graph-based AI system modeling symptom–disease relationships for intelligent clinical decision support.
 
 `Python` `Neo4j`
-
-[![Repo](https://img.shields.io/badge/View_Repo-22ff66?style=flat-square&logo=github&logoColor=black)](https://github.com/Laiba-Sarwar-codes)
 
 </td>
 </tr>
@@ -134,10 +130,10 @@ Led campus outreach engaging 2000+ students. Connected peers with industry profe
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Laiba-Sarwar-codes&show_icons=true&theme=github_dark&hide_border=true&title_color=22ff66&icon_color=22ff66&text_color=aaffcc&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba-Sarwar-codes&layout=compact&theme=github_dark&hide_border=true&title_color=22ff66&text_color=aaffcc&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Laiba-Sarwar-codes&show_icons=true&theme=github_dark&hide_border=true&title_color=4CAF50&icon_color=4CAF50&text_color=ccddcc&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba-Sarwar-codes&layout=compact&theme=github_dark&hide_border=true&title_color=4CAF50&text_color=ccddcc&bg_color=0d1117" />
 
-<img src="https://streak-stats.demolab.com?user=Laiba-Sarwar-codes&theme=github-dark-blue&hide_border=true&ring=22ff66&fire=22ff66&currStreakLabel=22ff66&background=0d1117&stroke=22ff66&sideLabels=aaffcc&dates=aaffcc" />
+<img src="https://streak-stats.demolab.com?user=Laiba-Sarwar-codes&theme=github-dark-blue&hide_border=true&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&background=0d1117&stroke=1a3a1a&sideLabels=ccddcc&dates=ccddcc" />
 
 </div>
 
@@ -162,7 +158,7 @@ System Design          █████░░░░░  50%
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22ff66,50:0a2a0a,100:0d1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a4a2a,50:0a2a0a,100:0d1117&height=100&section=footer)
 
 *"Learning by building and growing through every project."*
 
